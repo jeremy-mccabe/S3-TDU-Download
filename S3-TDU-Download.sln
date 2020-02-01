@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3-TDU-Download", "S3-TDU-Download\S3-TDU-Download.csproj", "{A998345B-C7BF-467C-BF93-C931C92AA9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A998345B-C7BF-467C-BF93-C931C92AA9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A998345B-C7BF-467C-BF93-C931C92AA9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A998345B-C7BF-467C-BF93-C931C92AA9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A998345B-C7BF-467C-BF93-C931C92AA9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BDEE3A5-19A2-4228-91F4-443AD01D0E3C}
+	EndGlobalSection
+EndGlobal
